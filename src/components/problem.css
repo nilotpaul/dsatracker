@@ -1,0 +1,19 @@
+.h3, .h3:hover{
+    background-color: transparent;
+    text-align: start;
+    width: auto;
+}
+
+.ques{
+    font-size: x-large;
+}
+
+.butt{
+    border: none;
+    border-radius: 0;
+    width: auto;
+    font-size: large;
+}
+.butt:hover{
+    color: white;
+}

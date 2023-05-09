@@ -1,0 +1,127 @@
+#id{
+    padding-top: 5%;
+}
+.caption{
+    padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.field{
+    width: 30%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 3px;
+}
+
+
+.addItems i {
+    position: absolute;
+}
+  
+.addItems {
+    width: 100%;
+    margin-bottom: 10px;
+}
+  
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+
+#trash{
+    float: right;
+    clear: right;
+    display: inline;
+    margin-top: -3.2rem;
+    margin-right: 35.7rem;
+}
+
+h3{
+    padding-top: 20px;
+    background-color: #4444F4;
+    width: 30%;
+    text-decoration: none;
+    text-align: center;
+    padding-bottom: 20px;
+    cursor: auto;
+}
+
+h3:hover{
+    background-color: #2222F1;
+}
+
+.btnn{
+    width: 10%;
+    display: inline-flexbox;
+    margin-top: 10px;
+    background-color: #140f38;
+    color: white;
+}
+
+.btnn:hover{
+    background-color: #0B062D;
+    color: red;
+}
+
+#add:hover{
+    color: green;
+}
+
+ #trash:hover{
+    color: red;
+ } 
+  
+  .fa {
+    margin-left: -2.5rem;
+    cursor: pointer;
+    pointer-events: auto;
+  }
+
+  .fa-plus:before {
+    font-size: 1.5rem;
+  }
+
+  @media only screen and (min-width: 969px){
+
+#add{
+    margin-left: -0.4rem;
+    margin-top: -0.1rem;
+
+}
+#trash{
+    margin-right: 26.85rem;
+}
+  }
+@media only screen and (max-width: 600px) {
+    .child #id{
+        padding-left: 30px;
+    }
+    .child figcaption{
+        padding-left: 30px;
+    }
+    .field{
+        width: 75%;
+    }
+    .btnn{
+        width: 35%;
+        color: red;
+    }
+    h3{
+        width: 75%;
+    }
+    #add{
+        color: green;
+        margin-left: -0.4rem;
+    }
+    #trash{
+        margin-right: 1.3rem;
+        color: red;
+    }
+ }
+#box{
+    overflow-x: auto;
+    scroll-behavior: smooth;
+
+}
+
