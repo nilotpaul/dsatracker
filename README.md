@@ -1,7 +1,7 @@
 # DSA TRACKER - All solutions for your DSA problems
 :tipping_hand_man: A website that contains important questions for data structure and algorithms with many features like community, goals, compiler, etc.
 
-## Overview :hear_no_evil:
+## Overview :eyes:
 ![](.gitres/banner.png)
 
 ## About :thinking:
