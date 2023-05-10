@@ -20,7 +20,7 @@ Our website has many features that will help you to keep yourself motivated and 
 
 ## Dependencies :books:
 - **[React](https://react.dev/) - Frontend**
-- **[Bootstap](https://react-bootstrap.github.io/) and [Material UI](https://mui.com/) - Navbar and miscellaneous**
+- **[Bootstrap](https://react-bootstrap.github.io/) and [Material UI](https://mui.com/) - Navbar and miscellaneous**
 - **[Font Awesome](https://fontawesome.com/) - Emojis**
 - **[Monaco](https://www.npmjs.com/package/@monaco-editor/react) - Code Editor**
 - **[ReactGA](https://www.npmjs.com/package/react-ga) - Google Analytics**
