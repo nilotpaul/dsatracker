@@ -19,7 +19,7 @@ Our website has many features that will help you to keep yourself motivated and 
 - **Fully Optimized for Mobile Devices**
 
 ## Dependencies :books:
-- **[React](https://react.dev/) - Frontend**
+- **[Vite](https://vitejs.dev/) - Frontend**
 - **[Bootstrap](https://react-bootstrap.github.io/) and [Material UI](https://mui.com/) - Navbar and miscellaneous**
 - **[Font Awesome](https://fontawesome.com/) - Emojis**
 - **[Monaco](https://www.npmjs.com/package/@monaco-editor/react) - Code Editor**
